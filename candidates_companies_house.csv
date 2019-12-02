@@ -3,7 +3,7 @@ candidate_id,name,counstituency,party,companies_house_url
 45,Daniel Zeichner,Cambridge,Labour Party,https://beta.companieshouse.gov.uk/officers/51dXF3dp4h_fDv95mUPXU9MXnrE/appointments
 45,Daniel Zeichner,Cambridge,Labour Party,https://beta.companieshouse.gov.uk/officers/sxSVMh-irvmEquARanqkOoGA9tU/appointments
 47,Julian Huppert,Cambridge,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/lyxPBRorHvkLLaYdjFSWllubw8E/appointments
-84,Therese Coffey,Suffolk Coastal,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/V_OMgUfDHX6MqSgGBWXcygVswKk/appointments
+84,Thérèse Coffey,Suffolk Coastal,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/V_OMgUfDHX6MqSgGBWXcygVswKk/appointments
 90,Phil Simpson,"Birmingham, Edgbaston",Green Party,https://beta.companieshouse.gov.uk/officers/RFzKpcRUVZwmzOfG-aVkp0XRrPs/appointments
 92,Frank Field,Birkenhead,Birkenhead Social Justice Party,https://beta.companieshouse.gov.uk/officers/IEQ6Q9my7OD3sSKiPixfTiiYKzY/appointments
 96,Roger Harmer,"Birmingham, Northfield",Liberal Democrats,https://beta.companieshouse.gov.uk/officers/QHn8g8ibTJbXUA40t4iM0ORFYJs/appointments
@@ -17,6 +17,7 @@ candidate_id,name,counstituency,party,companies_house_url
 151,David Gauke,South West Hertfordshire,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/NJTAHA7s0IYrWz4gXVhcRNQUkdc/appointments
 151,David Gauke,South West Hertfordshire,Independent,https://beta.companieshouse.gov.uk/officers/NJTAHA7s0IYrWz4gXVhcRNQUkdc/appointments
 155,John Glen,Salisbury,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/GPIRwNgw7_BoSkAADbIAxpSEs8E/appointments
+165,Stewart Golton,Elmet and Rothwell,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/ze5eN3sR8KqZaOyGYiTQmtZfJUQ/appointments
 178,Paul Blomfield,Sheffield Central,Labour Party,https://beta.companieshouse.gov.uk/officers/USLdubF2Yir5BD2wrSBzXcP0z78/appointments
 189,Anne-Marie Trevelyan,Berwick-upon-Tweed,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/DI3WG2QAUxzqb0Uh2hyTMPSpV50/appointments
 190,Justin Tomlinson,North Swindon,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/ITM9b_GeD8rT5XXmidLFNcFQRVU/appointments
@@ -564,6 +565,7 @@ candidate_id,name,counstituency,party,companies_house_url
 6881,Adam Giles Heatherington,"Liverpool, Wavertree",Independent,https://beta.companieshouse.gov.uk/officers/oCj8sYudqMarpy_tN9V4cQiP3GM/appointments
 6881,Adam Heatherington,"Liverpool, Wavertree",The Brexit Party,https://beta.companieshouse.gov.uk/officers/H1iWi7jyin4pLXox0CzW1rXtBbk/appointments
 6881,Adam Heatherington,"Liverpool, Wavertree",The Brexit Party,https://beta.companieshouse.gov.uk/officers/oCj8sYudqMarpy_tN9V4cQiP3GM/appointments
+6892,Jeff Green,Brecon and Radnorshire,"Christian Party ""Proclaiming Christ's Lordship""",https://beta.companieshouse.gov.uk/officers/QyrynAx0EFy7zKmh10aDjmaQMiU/appointments
 6894,Paul Edward Woodhead,Cannock Chase,Green Party,https://beta.companieshouse.gov.uk/officers/8952tkteHMfFOjNgNxM2051IxQQ/appointments
 6910,John Lawson,Batley and Spen,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/5FAYmnoddNE_pgzrRUgoFGc68U0/appointments
 6919,Holly Walker-Lynch,Halifax,Labour Party,https://beta.companieshouse.gov.uk/officers/B5Ps4paTxSSuhuNiuKILX4Ywsg4/appointments
@@ -615,7 +617,7 @@ candidate_id,name,counstituency,party,companies_house_url
 8158,Sam Nicholson,Newry and Armagh,Ulster Unionist Party,https://beta.companieshouse.gov.uk/officers/ycLXgGbPkXFzJxk--wC2r6Opvgg/appointments
 8158,Sam Nicholson,Newry and Armagh,Ulster Unionist Party,https://beta.companieshouse.gov.uk/officers/yR-npJ4tDD0kWclIK1egiJdJ-7c/appointments
 8175,Anna McMorrin,Cardiff North,Labour Party,https://beta.companieshouse.gov.uk/officers/EpdnUEY7rR2w7cal00ShTNyjSNo/appointments
-8179,Jonathan Daniel Stewart Barras,Bradford East,The Brexit Party,https://beta.companieshouse.gov.uk/officers/n9vanxTIQg_BcdKHiqyiI6B0xV8/appointments
+8179,Jonathan Barras,Bradford East,The Brexit Party,https://beta.companieshouse.gov.uk/officers/n9vanxTIQg_BcdKHiqyiI6B0xV8/appointments
 8179,Jonathan Daniel Stewart Barras,Bradford East,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/gSKSkb0iKuWM-WGLkIXQ0HBmoM0/appointments
 8179,Jonathan Daniel Stewart Barras,Bradford East,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/moyl9UJORbo_q8iEFII7rW_JeAA/appointments
 8292,Lorna Jane Slater,Edinburgh North and Leith,Scottish Green Party,https://beta.companieshouse.gov.uk/officers/1uLEdPlK1pOirF4XyGqEw0jc1O0/appointments
@@ -660,7 +662,6 @@ candidate_id,name,counstituency,party,companies_house_url
 13327,Hannah Frances O'Neill,Milton Keynes South,Labour Party,https://beta.companieshouse.gov.uk/officers/4jJuS0iYabuJSFYa75rKFOda614/appointments
 13476,Troy De Leon,Woking,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/q5oQIQbqT7uvlfCx2DHyhXyAgPY/appointments
 13760,Andrew Beaumont,Stretford and Urmston,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/lyAGCIXpMBv38HtuDdKP6A6faU0/appointments
-13928,Jo Platt,Leigh,Labour and Co-operative Party,https://beta.companieshouse.gov.uk/officers/znN-TgDSzr3FIaF3OfK-x2YFz3E/appointments
 13989,Steven Galton,"Southampton, Test",Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/nBs5xAUmSTqqb7t1CNkxHXMjDbU/appointments
 14142,Marc Patrick Green,Mole Valley,Labour Party,https://beta.companieshouse.gov.uk/officers/mEkxqDaWuzjDlUJYwVo315mQLZA/appointments
 14142,Marc Patrick Green,Mole Valley,Labour Party,https://beta.companieshouse.gov.uk/officers/N_fsa9BtmoZrC7SITgAHp0gyESc/appointments
@@ -686,6 +687,7 @@ candidate_id,name,counstituency,party,companies_house_url
 17443,Charles William Shaw,Lincoln,The Liberal Party,https://beta.companieshouse.gov.uk/officers/WntEXiRnSX0Z1oiF5nhKSA6WWm8/appointments
 17516,Sally Horscroft,Lincoln,Green Party,https://beta.companieshouse.gov.uk/officers/ziTWKVfOJUrS2j8BisMiKnBQBCE/appointments
 17648,Sima Davarian,South West Devon,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/yTp-SIX-lPDrDNo8Gc4XI80Qpn8/appointments
+17736,Stephen Morgan,Portsmouth South,Labour Party,https://beta.companieshouse.gov.uk/officers/0cuHERXpKLgiMqzUNCcQ2gEeZPw/appointments
 17736,Stephen Morgan,Portsmouth South,Labour Party,https://beta.companieshouse.gov.uk/officers/J4o7cwR6_LT6y7rhTh256ElhvY8/appointments
 17752,Rumal Khan,Portsmouth North,Labour Party,https://beta.companieshouse.gov.uk/officers/aZNZfqt1ByMfUIgQQQpgz32ZDBo/appointments
 18017,Ian Barfield,Great Grimsby,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/2tIcbtCsXvOqtoaarHJeoVj2D3g/appointments
@@ -710,7 +712,6 @@ candidate_id,name,counstituency,party,companies_house_url
 20009,Sam S Collins,Hitchin and Harpenden,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/3k4qGsZnEYQikWDg0q2_6gOt73M/appointments
 20055,Louise McPhater,Central Ayrshire,Labour Party,https://beta.companieshouse.gov.uk/officers/Ck4B0XK9M58CnkWSEKLEAnq1vvI/appointments
 20112,Claire Miller,Edinburgh East,Scottish Green Party,https://beta.companieshouse.gov.uk/officers/HE0kMMTYC88UW1qfJUrTwpb-3_E/appointments
-20177,Stuart Brady,Loughborough,Labour Party,https://beta.companieshouse.gov.uk/officers/wQBQTSTXZYnExAypAC5Ir6bRJ60/appointments
 20334,Sally Symington,Hemel Hempstead,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/LvS3W_0MDlcAfNsQOOPiek3y2mE/appointments
 20469,Robert O'Riordan,East Lothian,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/UcssffYDBxaDR4RT0kuKBawVfcs/appointments
 20533,Andrew Leonard John Bennison,Aberavon,Plaid Cymru - The Party of Wales,https://beta.companieshouse.gov.uk/officers/kQA30JmXPNUBUDk8hWxc-AvdsRY/appointments
@@ -764,7 +765,7 @@ candidate_id,name,counstituency,party,companies_house_url
 24788,Lisa Robillard Webb,Central Devon,Labour Party,https://beta.companieshouse.gov.uk/officers/MftULvM21ZgO_wVJivBlBG-owW8/appointments
 24820,Joan Carol Tebbutt,Wansbeck,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/pyL0MdTxgTgfsS8z3oSoL4Xt_k4/appointments
 24858,Paul John Rowlinson,Delyn,Plaid Cymru - The Party of Wales,https://beta.companieshouse.gov.uk/officers/EylrL8dUdkLm_BtoNzdlsZEYkmU/appointments
-24947,Jason Richard Billin,Rushcliffe,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/8N61Ikvr0i3IyxN4RkkB_jo7mIM/appointments
+24947,Jason Billin,Rushcliffe,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/8N61Ikvr0i3IyxN4RkkB_jo7mIM/appointments
 25170,Leanne Lewis,Bridgend,Plaid Cymru - The Party of Wales,https://beta.companieshouse.gov.uk/officers/3kYXMlFPBXECkfH4xYOthzO_BTs/appointments
 25365,Hugo Fearnley,Scarborough and Whitby,Labour Party,https://beta.companieshouse.gov.uk/officers/_gCFD2x_OVmZIaPlbWtjf_Hp490/appointments
 25365,Hugo Fearnley,Scarborough and Whitby,Labour Party,https://beta.companieshouse.gov.uk/officers/NHch1BGuKCrfEHkC9Nf_rNJZTTY/appointments
@@ -817,7 +818,7 @@ candidate_id,name,counstituency,party,companies_house_url
 30559,Fiona Elizabeth Yorke,Richmond (Yorks),Green Party,https://beta.companieshouse.gov.uk/officers/N9o5oTzfVKMhK7iFT5lGqL5y2ho/appointments
 30965,Geoffrey Bernard Bastin,Bexhill and Battle,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/CY6s55Nntzx4Ay5mFwe_o3xkGv4/appointments
 31172,Bert Poole,Waveney,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/vgCYqTmP825OoMMtSKZbhqfVImk/appointments
-31895,Sabrina Helen Marie Poole,The Cotswolds,Green Party,https://beta.companieshouse.gov.uk/officers/JodornaM-0FijSm9h7SWoapESlo/appointments
+31895,Sabrina Poole,The Cotswolds,Green Party,https://beta.companieshouse.gov.uk/officers/JodornaM-0FijSm9h7SWoapESlo/appointments
 31985,Suzanna Marie Austin,Wellingborough,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/F3aWcftnCYGk1WogBSeekrJHmU4/appointments
 32136,Steven Scrutton,Corby,Green Party,https://beta.companieshouse.gov.uk/officers/OybhHYpZNSAtcneyL2e3m7kf1ws/appointments
 32373,George Masterton Kemp,Workington,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/UEtAcHI0yQwacgVsoTBxgRRZUq0/appointments
@@ -898,7 +899,6 @@ candidate_id,name,counstituency,party,companies_house_url
 34514,Annette Simpson,Bassetlaw,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/Q6fKaxvIncUY2RNj3-CH9zacif0/appointments
 34518,Eleanor Price,Dundee East,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/6rc2U3yaXlvaNDIzpn_LYp9kAkU/appointments
 34518,Eleanor Price,Edinburgh East,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/gU5padZ3WgVk4SqriiI0GQg3Uqg/appointments
-34522,Laura Farris,Newbury,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/xmXqtzvXzFVvZ6NHm8VGA-0qvco/appointments
 34524,Jason Charalambous,Islington South and Finsbury,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/YLsRAAzc4ESs4z0VbQ9luJ795eI/appointments
 34527,Bachchu Kaini,Dartford,Labour Party,https://beta.companieshouse.gov.uk/officers/ZsrAdM9B05Do6yBbXObtsYYG3Xg/appointments
 34561,Carole O'Toole,Wrexham,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/wpm_IU9uEw3OJ-Sn1xWIGg22B7Q/appointments
@@ -907,7 +907,6 @@ candidate_id,name,counstituency,party,companies_house_url
 34590,Paul Dadge,Cannock Chase,Labour Party,https://beta.companieshouse.gov.uk/officers/1fn-prpi_oLAAmbOTedbCRXdwXE/appointments
 34591,Wes Hinckes,Bridgwater and West Somerset,Labour Party,https://beta.companieshouse.gov.uk/officers/PU8TOSemK8OlNUPjMLRgcJxKRzQ/appointments
 34595,Neil Darby,Preston,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/S-HshW1fkTG6twKZgQrorzTJzDw/appointments
-34596,Angie Smith,Wealden,Labour Party,https://beta.companieshouse.gov.uk/officers/__RWihUfrgphzAPv71L_CaL59rk/appointments
 34598,Dermot Nicholl,East Londonderry,Sinn Féin,https://beta.companieshouse.gov.uk/officers/cAegNg2ut6pO8fYlSL4pQXoTCMc/appointments
 34598,Dermot Nicholl,East Londonderry,Sinn Féin,https://beta.companieshouse.gov.uk/officers/UugT1_ua-cNboo4InGxZ_1jCIbA/appointments
 34599,Dylan Brown,Elmet and Rothwell,Green Party,https://beta.companieshouse.gov.uk/officers/CWG7coQO_LL38vJ7B2-Ki9YjjHw/appointments
@@ -953,6 +952,7 @@ candidate_id,name,counstituency,party,companies_house_url
 34836,Ruth Price,Hornsey and Wood Green,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/snWhM0LTUG2kegmaJaa8NWdAvjA/appointments
 34847,Brian Haley,Tottenham,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/KzU0D1GlcHUpJXwpnD8I8oien2I/appointments
 34858,Kyle Arron Paul Michael,Aylesbury,Independent,https://beta.companieshouse.gov.uk/officers/YEYcJ5v3sWYioIw3YdZArb7FPgM/appointments
+34867,Thomas Hall,Epping Forest,Young People's Party YPP,https://beta.companieshouse.gov.uk/officers/d1SCI8mHBbPgR9qm7n-hkh89PP8/appointments
 34876,Ray Blake,Hitchin and Harpenden,Independent,https://beta.companieshouse.gov.uk/officers/0x8IUZ4hryTkj5NHweUTJObXcJk/appointments
 34890,Andrew Richard Browning,"Birmingham, Ladywood",Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/dP3v3wF3_dAzcuIX1yzys2Q3p5k/appointments
 34891,Jack Wylie,Glasgow North East,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/HWjbHMFyqRC3dCMJSRlatez8O-o/appointments
@@ -977,6 +977,7 @@ candidate_id,name,counstituency,party,companies_house_url
 35008,David Tabane,Ipswich,Independent,https://beta.companieshouse.gov.uk/officers/noPxmO2xmEN94HoVVxGjowGztOo/appointments
 35013,Peter Faithfull,East Devon,Independent,https://beta.companieshouse.gov.uk/officers/QIsV6URB2WEMMP7bYqdYyIAcT4w/appointments
 35017,Colin Rankine,West Bromwich East,Independent,https://beta.companieshouse.gov.uk/officers/E7mPF8FU-bAoeqzRLUrJbGPI90U/appointments
+35017,Colin Rankine,West Bromwich East,Yeshua,https://beta.companieshouse.gov.uk/officers/E7mPF8FU-bAoeqzRLUrJbGPI90U/appointments
 35018,Jonathan Haden West,Exeter,Independent,https://beta.companieshouse.gov.uk/officers/SSEetWN_hxFLNTMiwjSgzZVS4cQ/appointments
 35024,James William Torrance,Kensington,Independent,https://beta.companieshouse.gov.uk/officers/Z5BYr2NUDCOscy0_BWLPzTqU-DI/appointments
 35025,Philip Leicester,Loughborough,Green Party,https://beta.companieshouse.gov.uk/officers/jiUXtzspf0fnisQGjYUEVkO13Og/appointments
@@ -1010,6 +1011,7 @@ candidate_id,name,counstituency,party,companies_house_url
 35311,Zoe Hatch,Beaconsfield,Green Party,https://beta.companieshouse.gov.uk/officers/OEPZDJnwqn4AgLVwb_o3hzM2ZUg/appointments
 35341,Andrew Guy Jones,Nottingham North,Green Party,https://beta.companieshouse.gov.uk/officers/fvvXHT8rYIiXkToyZw0_jFOm3t0/appointments
 35341,Andrew Guy Jones,Nottingham North,Green Party,https://beta.companieshouse.gov.uk/officers/oKWuw2HH3MZN4oM0R8ccGidvFWY/appointments
+35437,Richard Morgan,Bristol South,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/4uCgVU53yXscF61YPgz87-MB69c/appointments
 35992,Rod Cantrill,Cambridge,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/soHqWE8geuaWahajQusKAgQHzW8/appointments
 36011,Darren Moore,"Ealing, Southall",Green Party,https://beta.companieshouse.gov.uk/officers/CxzodFe6JJCUSC25Zu5fxm-ISeU/appointments
 36114,Ruth Gripper,Truro and Falmouth,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/OBJOEXAH8cyY3HKqYhgS7oBG6IA/appointments
@@ -1059,7 +1061,7 @@ candidate_id,name,counstituency,party,companies_house_url
 51908,Carl Benfield,North West Leicestershire,Green Party,https://beta.companieshouse.gov.uk/officers/7aeRMozgGq0vn2xnCuMRdFODP98/appointments
 52249,Victoria Smith,Leeds West,Green Party,https://beta.companieshouse.gov.uk/officers/gLMR-uGDchFYs74EKaV_qLvu2ys/appointments
 52822,Shana Roberts,Telford,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/W6vkvzJlpTije3h-Ypc5J6BU6qs/appointments
-53030,Gary Ian Coleman,Blackpool South,Independent,https://beta.companieshouse.gov.uk/officers/JK9L5yZPrYC6twFDPLIbZPufaeg/appointments
+53030,Gary Coleman,Blackpool South,Independent,https://beta.companieshouse.gov.uk/officers/JK9L5yZPrYC6twFDPLIbZPufaeg/appointments
 53227,Kevin Cranney,Hartlepool,Socialist Labour Party,https://beta.companieshouse.gov.uk/officers/8UqIgMcbhLgx0HT3YiissC-vfkc/appointments
 53227,Kevin Cranney,Hartlepool,Socialist Labour Party,https://beta.companieshouse.gov.uk/officers/9ID6aEVr4jeimXTbpMMKYwzi96c/appointments
 53227,Kevin Cranney,Hartlepool,Socialist Labour Party,https://beta.companieshouse.gov.uk/officers/R2-9rW40OPOKUkmAoickiykCVdE/appointments
@@ -1082,7 +1084,6 @@ candidate_id,name,counstituency,party,companies_house_url
 60216,Claire Unwin,West Suffolk,Labour Party,https://beta.companieshouse.gov.uk/officers/GtY3BqOzaoQ9Mhx12T4sN6StSwE/appointments
 60216,Claire Unwin,West Suffolk,Labour Party,https://beta.companieshouse.gov.uk/officers/ycFcghC-uR-yZQwga7DaQ-ckkMk/appointments
 60223,Andrew Dunne,Christchurch,Labour Party,https://beta.companieshouse.gov.uk/officers/0QIEewv0RaVOorIFe_c0NLcqPv4/appointments
-60588,Rosemary Cerridwen Gray Woods,Ashfield,Green Party,https://beta.companieshouse.gov.uk/officers/SxXZRtPMpcalUAk57f30P86t3tg/appointments
 60650,Phillip Howells,North Herefordshire,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/NkNwy2v15qtQWzypFgG0sMHabQA/appointments
 61419,Robert Liam Eggleston,Mid Sussex,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/5LZjsogHxyboWiOurA9BxcQTvuw/appointments
 61419,Robert Liam Eggleston,Mid Sussex,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/RVuNACXBNMWpO6rYxiXhezyAHHY/appointments
@@ -1127,7 +1128,6 @@ candidate_id,name,counstituency,party,companies_house_url
 71564,Richard Whelan,North Warwickshire,Liberal Democrats,https://beta.companieshouse.gov.uk/officers/i2H7q2beMUqRmLXXP4JFoUWlSY8/appointments
 71568,Bonnie Jackson,North Wiltshire,Green Party,https://beta.companieshouse.gov.uk/officers/NOsVMdRTt9y9tS9HpBQ-aaYWaPo/appointments
 71581,Stuart Powell,Perth and North Perthshire,The Brexit Party,https://beta.companieshouse.gov.uk/officers/3rAWOMXOnCd0Gufy2hS2x_yn2eQ/appointments
-71588,Catherine Cui,Poplar and Limehouse,The Brexit Party,https://beta.companieshouse.gov.uk/officers/BsH1JpL3hXMi61CW0VH9D5CnaAI/appointments
 71607,Lorna Rowland,Runnymede and Weybridge,Independent,https://beta.companieshouse.gov.uk/officers/F97TCd9lW-cn2VMWJUOCWHYWnIk/appointments
 71646,Rebecca Gordon-Nesbitt,South Thanet,Labour Party,https://beta.companieshouse.gov.uk/officers/E1eF6o3kWvnXszsHh3CiUYSAxfU/appointments
 71656,Philip Crook,"Southampton, Test",The Brexit Party,https://beta.companieshouse.gov.uk/officers/PMgN-u2Uigt5_iSsVqzRKdj6diU/appointments
@@ -1151,7 +1151,6 @@ candidate_id,name,counstituency,party,companies_house_url
 71895,Owen Aspinall,Colne Valley,Yorkshire Party,https://beta.companieshouse.gov.uk/officers/HOP4yQOnrmcOuTuLV-Re5fpZvbI/appointments
 71902,Ali Azeem,Ilford South,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/wopG19-YvvRQNammlIUFOYMMu8E/appointments
 71953,Natalie Elphicke,Dover,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/BN_U6zLYieIR-6Q-6mY1MSt7rdo/appointments
-71964,Robert Leslie,Orkney and Shetland,Scottish National Party (SNP),https://beta.companieshouse.gov.uk/officers/dQfgYJOMi-ofcF58S5PpnQiXoyU/appointments
 71973,Stephen Capper,Maldon,Labour Party,https://beta.companieshouse.gov.uk/officers/a-nx8B4_Bi0W4GH_3Jb_9TDO-Ik/appointments
 71981,Richard Quigley,Isle of Wight,Labour Party,https://beta.companieshouse.gov.uk/officers/s8AfsUx8MmR-Bbs0wQnoxvb2rDY/appointments
 71981,Richard Quigley,Isle of Wight,Labour Party,https://beta.companieshouse.gov.uk/officers/TLALde0pTTC5J8SjiorgIjDkD1g/appointments
@@ -1172,7 +1171,7 @@ candidate_id,name,counstituency,party,companies_house_url
 72176,Christopher John Charles Howarth,Houghton and Sunderland South,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/g5il0ZncLaGA5BKlT-8AIfmmT1g/appointments
 72188,Mark Alan Lawrence,Chelmsford,Official Monster Raving Loony Party,https://beta.companieshouse.gov.uk/officers/G1qF-wdYfMPZO7Xw5IV3J31-z0U/appointments
 72195,Akheil Mehboob,Walsall South,Independent,https://beta.companieshouse.gov.uk/officers/SntOy8n5UC-e8hKjbPsb0zfWAV4/appointments
-72202,David Richard Ragozzino,Wyre and Preston North,Independent,https://beta.companieshouse.gov.uk/officers/qu6bCHwArHLXK3xGuMgBhzOD058/appointments
+72202,David Ragozzino,Wyre and Preston North,Independent,https://beta.companieshouse.gov.uk/officers/qu6bCHwArHLXK3xGuMgBhzOD058/appointments
 72211,Eden Webley,Wansbeck,The Brexit Party,https://beta.companieshouse.gov.uk/officers/qbw2lcE9MsdsThM5cREODwGfv5I/appointments
 72214,Paul Ryan Yates,Ribble Valley,Green Party,https://beta.companieshouse.gov.uk/officers/OwaaP-st4rPhhBQwP7UGda_MXjc/appointments
 72222,Julia Caroline Stephenson,Dulwich and West Norwood,The Brexit Party,https://beta.companieshouse.gov.uk/officers/KqcuKOGVzUvJOsaohcE44WMI06k/appointments
@@ -1182,7 +1181,6 @@ candidate_id,name,counstituency,party,companies_house_url
 72230,Zulf Jannaty,Leyton and Wanstead,The Brexit Party,https://beta.companieshouse.gov.uk/officers/AA2wxCeFghUk9SlUGT0qPKvaduI/appointments
 72239,Graham Wilson Hadley,Wimbledon,Independent,https://beta.companieshouse.gov.uk/officers/EP2KjMyK-c6k2BTkmc8lvDGBUNI/appointments
 72240,Peter Ernest Jacobs,Wigan,Green Party,https://beta.companieshouse.gov.uk/officers/dYRY0lLtVrzG0dueWA3fAYfyuS8/appointments
-72246,Frank Lloyd Calladine,Doncaster North,English Democrats,https://beta.companieshouse.gov.uk/officers/5uMMqXxdI2sSCzWHoYurE51Yty8/appointments
 72269,Atifa Shah,Rochdale,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/1j1LDcWOI-rlobrHNcFli9LCIxY/appointments
 72271,Karen Helsby Entwistle,Burnley,Independent,https://beta.companieshouse.gov.uk/officers/GmUsD3CbuYsZ4i35S3VBeHrA_18/appointments
 72285,Hassan Zulkifal,"Ealing, Southall",Workers Revolutionary Party,https://beta.companieshouse.gov.uk/officers/Qru0H6dSsfIjGaR7Xxb8uY-o4pY/appointments
@@ -1194,8 +1192,7 @@ candidate_id,name,counstituency,party,companies_house_url
 72332,Parvez Akhtar,Luton South,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/qY7cw9A03TgI0BIvM53UKrBix-U/appointments
 72345,Wesley Derek Bruce Pollard,Lewisham East,The Brexit Party,https://beta.companieshouse.gov.uk/officers/0cgjUjGFCuDXQIoWJ9fx6j0XW3g/appointments
 72360,Tristan Naseem Koriya,South Leicestershire,Labour Party,https://beta.companieshouse.gov.uk/officers/DghNEQRpG8hS6We2SYvrcw2pw-I/appointments
-72361,Harriet Nkechi Adimora Gore,Kensington,Touch Love Worldwide (UK),https://beta.companieshouse.gov.uk/officers/G2tNrIfBhXvKWX-NyY3xwEoBQGQ/appointments
-72361,Harriet Nkechi Adimora Gore,Kensington,Touch Love Worldwide (UK),https://beta.companieshouse.gov.uk/officers/vc-7jXV7HXuLjGuIRKA5QQhK6pE/appointments
+72361,Harriet Gore,Kensington,Touch Love Worldwide (UK),https://beta.companieshouse.gov.uk/officers/vc-7jXV7HXuLjGuIRKA5QQhK6pE/appointments
 72376,Steve Cotten,North Devon,Independent,https://beta.companieshouse.gov.uk/officers/XxZLCIDnhQuQSoTiRLD-c0SZYww/appointments
 72386,Julian Barrie Newton,Stalybridge and Hyde,The Brexit Party,https://beta.companieshouse.gov.uk/officers/d0oLtW-TaSxO-k97h8SeJL4-vB8/appointments
 72399,Graeme Alan Webber,Leeds North West,The Brexit Party,https://beta.companieshouse.gov.uk/officers/Rq4NZLJJuc33fc8MF_szwLZ9naQ/appointments
@@ -1206,9 +1203,9 @@ candidate_id,name,counstituency,party,companies_house_url
 72427,Tony Capozzoli,Yeovil,Independent,https://beta.companieshouse.gov.uk/officers/tOGx7RjuVRdSRdngVKDK3lJoR1k/appointments
 72436,Robert Speirs,Edinburgh North and Leith,The Brexit Party,https://beta.companieshouse.gov.uk/officers/wdfzGHjZj5sJH7NAIw6iDSWJ2ck/appointments
 72449,Andrew John Snedden,York Central,Yorkshire Party,https://beta.companieshouse.gov.uk/officers/zMS3mIzstVIydhtfOStsTiUKxt4/appointments
-72450,William Harvey Morgan,City of Durham,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/6-UKpBBnRD35ZSCDtsaNeoEa8-E/appointments
-72450,William Harvey Morgan,City of Durham,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/f-J51dXa0zpPjErn6B5ihIwv1bA/appointments
-72450,William Harvey Morgan,City of Durham,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/K_dvAK0DZW9lcxx-88arrC5N9Vw/appointments
+72450,Harvey Morgan,City of Durham,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/6-UKpBBnRD35ZSCDtsaNeoEa8-E/appointments
+72450,Harvey Morgan,City of Durham,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/f-J51dXa0zpPjErn6B5ihIwv1bA/appointments
+72450,Harvey Morgan,City of Durham,Conservative and Unionist Party,https://beta.companieshouse.gov.uk/officers/K_dvAK0DZW9lcxx-88arrC5N9Vw/appointments
 72453,Michael McGetrick,Watford,Social Democratic Party,https://beta.companieshouse.gov.uk/officers/yO_rIQlrbJUkqNZvFH83OiKAOoY/appointments
 72454,Donald Omoarebun Akhigbe,Ilford North,Christian Peoples Alliance,https://beta.companieshouse.gov.uk/officers/ihh964vNl2j4lejszkgxumJTKfE/appointments
 72454,Donald Omoarebun Akhigbe,Ilford North,Christian Peoples Alliance,https://beta.companieshouse.gov.uk/officers/qdRT8hUGyWg2hbHcLVqd88GZPic/appointments
@@ -1217,11 +1214,11 @@ candidate_id,name,counstituency,party,companies_house_url
 72475,Tracy Blackwell,"Ruislip, Northwood and Pinner",Independent,https://beta.companieshouse.gov.uk/officers/UrU1vwpxwlPs2ChSxwfJqxSAdP8/appointments
 72478,Geoffrey Paul Cox,Mole Valley,UK Independence Party (UKIP),https://beta.companieshouse.gov.uk/officers/WN54UzgnFvJENR6dIi9c9tIV7nw/appointments
 72494,Robert Lee Smith,St Ives,The Liberal Party,https://beta.companieshouse.gov.uk/officers/yOvP_m0TKs-cRChFs6mSUkweWlc/appointments
-72522,Iram Altaf Kiani,Altrincham and Sale West,Independent,https://beta.companieshouse.gov.uk/officers/4XBWZufL_wQh6G405Dzd4ANeY18/appointments
+72522,Iram Kiani,Altrincham and Sale West,Independent,https://beta.companieshouse.gov.uk/officers/4XBWZufL_wQh6G405Dzd4ANeY18/appointments
 72523,Amarachi Marilyn Ogba,Milton Keynes South,Christian Peoples Alliance,https://beta.companieshouse.gov.uk/officers/jNxrA_CoH0Fas1p4ajSlS9It3d8/appointments
 72539,Cath Sutherland,Nottingham South,Green Party,https://beta.companieshouse.gov.uk/officers/az95Oc34Cli8N4P_n7CuiiVFZvM/appointments
 72539,Cath Sutherland,Nottingham South,Green Party,https://beta.companieshouse.gov.uk/officers/El2bi7EJSujrnMycSW61NpAZfbw/appointments
-72564,Nathan Mark Sutton,Dover,Independent,https://beta.companieshouse.gov.uk/officers/3jGkz-YccH_Bi4BEisEwifoD-IU/appointments
+72564,Nathan Sutton,Dover,Independent,https://beta.companieshouse.gov.uk/officers/3jGkz-YccH_Bi4BEisEwifoD-IU/appointments
 72582,Richard Christian Ings,Hackney North and Stoke Newington,The Brexit Party,https://beta.companieshouse.gov.uk/officers/RVof0IY6AOb2VOpM6W4NRlaFMJg/appointments
 72592,David John Nairn,North Ayrshire and Arran,Scottish Green Party,https://beta.companieshouse.gov.uk/officers/mUtDJe-LHAJC-ioXwDB6zTOL7JI/appointments
 72592,David John Nairn,North Ayrshire and Arran,Scottish Green Party,https://beta.companieshouse.gov.uk/officers/VrdVKCl_JHw8V1bf7Hw5mjvjfjE/appointments

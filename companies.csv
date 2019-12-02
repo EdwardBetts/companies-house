@@ -31,6 +31,14 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 155,John Philip GLEN,J P G STRATEGIC SERVICES LIMITED,05833134,Dissolved,Director,,31 May 2006,
 155,John Philip GLEN,MICHAEL & PHILIP GLEN LIMITED,01963069,Dissolved,Director,,8 December 2003,
 155,John Philip GLEN,WALTON BATES ASSOCIATES LTD,05763259,Dissolved,Director,Resigned,19 June 2007,25 March 2011
+165,Barry Stewart GOLTON,AIRE VALLEY HOMES LEEDS LTD,06031620,Dissolved,Director,Resigned,24 January 2007,8 June 2011
+165,Barry Stewart GOLTON,LEEDS BRADFORD AIRPORT LIMITED,02065958,Active,Director,Resigned,23 July 1999,19 May 2003
+165,Barry Stewart GOLTON,LEEDS BRADFORD AIRPORT LIMITED,02065958,Active,Director,Resigned,28 June 2004,1 May 2007
+165,Barry Stewart GOLTON,LEEDS SOUTH EAST HOMES LIMITED,04594819,Dissolved,Director,,24 January 2007,
+165,Barry Stewart GOLTON,LEEDS SOUTH HOMES LIMITED,04594833,Dissolved,Director,,26 July 2006,
+165,Barry Stewart GOLTON,SOUTH LEEDS ACADEMY TRUST,06948499,Dissolved,Director,Resigned,29 September 2009,1 July 2010
+165,Barry Stewart GOLTON,THE FAIR EXCHANGE LEEDS LIMITED,09369704,Active,Director,Active,30 December 2014,
+165,Barry Stewart GOLTON,WELCOME TO YORKSHIRE,02896762,Active,Director,Resigned,26 July 2004,31 March 2005
 178,Paul Christopher BLOMFIELD,FOCUS ON LABOUR EXPLOITATION,08451701,Active,Director,Active,26 March 2014,
 189,Anne-Marie Belinda TREVELYAN,ALNWICK COMMUNITY DEVELOPMENT TRUST LIMITED,04148521,Dissolved,Director,,20 December 2009,
 189,Anne-Marie Belinda TREVELYAN,ASCHAM HOUSE SCHOOL TRUST LIMITED,01507528,Dissolved,Director,Resigned,17 November 2003,24 January 2005
@@ -1294,6 +1302,7 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 6872,Glyn REDICAN,THE WILSONS PROJECT LIMITED,07859904,Active,Director,Active,6 December 2011,
 6881,Adam Giles HEATHERINGTON,WEBORBIT LIMITED,07141341,Active,Director,Active,31 January 2010,
 6881,Adam HEATHERINGTON,WEBSTER TRIANGLE COMMUNITY INTEREST COMPANY,11575456,Active,Director,Active,18 September 2018,
+6892,Jeffrey David GREEN,GRAND PAVILION EVENTS C.I.C.,10059954,Active,Director,Resigned,13 March 2016,27 January 2017
 6894,Paul Edward WOODHEAD,ALL-CLEAR ENVIRONMENTAL SERVICES LIMITED,02968449,Dissolved,Director,,1 November 2006,
 6894,Paul Edward WOODHEAD,AWMG REALISATIONS 2009 LIMITED,05562748,Dissolved,Director,,13 January 2006,
 6894,Paul Edward WOODHEAD,AWMR REALISATIONS 2009 LIMITED,06384480,Dissolved,Director,,28 September 2007,
@@ -1476,7 +1485,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 12326,Shaffaq MOHAMMED,RIVER STEWARDSHIP COMPANY LIMITED,06759419,Active,Director,Resigned,26 November 2008,6 January 2010
 12326,Shaffaq MOHAMMED,THE BURNGREAVE MESSENGER LIMITED,04642734,Active,Director,Resigned,21 January 2003,31 January 2004
 12326,Shaffaq MOHAMMED,TINSLEY FORUM,03881700,Active,Director,Resigned,22 November 1999,4 December 2003
-12368,David Christopher PEACE,IMAGINE MONEY (UK) LTD,SC300539,Dissolved,Director,,10 April 2006,
 12783,Alexander Bernard Willis RUGG,M. N. PETROLEUM SUPPLIES LIMITED,03033023,Active,Director,Active,15 February 1996,
 12783,Alexander Bernard Willis RUGG,M. N. PETROLEUM SUPPLIES LIMITED,03033023,Active,Secretary,Active,5 October 2000,
 12783,Alexander Bernard Willis RUGG,P.J. RUGG LIMITED,02656156,Active,Director,Active,19 December 2005,
@@ -1499,7 +1507,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 13476,Troy DE LEON,MEGA-T LIMITED,01928784,Dissolved,Director,Resigned,14 June 1991,2 December 2011
 13476,Troy DE LEON,MEGATRADERS LIMITED,05202319,Active,Director,Active,10 August 2004,
 13760,Andrew BEAUMONT,FIELD OF THE FALLEN LIMITED,08939608,Active,Director,Active,14 March 2014,
-13928,Andrew John PLATT,BIO - TAG LIMITED,05102799,Dissolved,Director,,5 January 2006,
 13989,Steven Graham Patrick GALTON,BASE LTD,05505693,Active,Director,Active,28 June 2006,
 14142,Marc Patrick GREEN,PORTLOCK COMPUTERS LIMITED,02538459,Dissolved,Director,,10 September 1991,
 14142,Marc Patrick GREEN,PORTLOCK COMPUTERS LIMITED,02538459,Dissolved,Secretary,,10 September 1991,
@@ -1557,6 +1564,7 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 17443,Charles William SHAW,YOUTH DEVELOPMENT ASSOCIATION LIMITED(THE),01543379,Active,Secretary,Active,31 December 1991,
 17516,Sally Anne HORSCROFT,MASAJI LIMITED,04277268,Active,Director,Active,1 March 2004,
 17648,Jane DAVARIAN,HANGAR FIVE GALLERY LTD,12023033,Active,Director,Active,29 May 2019,
+17736,Stephen James MORGAN,AGE UK PORTSMOUTH,03281047,Active,Director,Resigned,11 March 2015,20 May 2016
 17736,Stephen MORGAN,S & L MORGAN INVESTMENTS LTD,10436951,Active,Director,Active,19 October 2016,
 17752,Rumal KHAN,PORTSMOUTH CITIZENS ADVICE BUREAU,02946921,Active,Director,Resigned,5 November 2002,8 July 2003
 18017,Ian Philip BARFIELD,COUNTY DURHAM BOOKS LIMITED,08051756,Dissolved,Director,,1 May 2012,
@@ -2050,7 +2058,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 34514,Annette SIMPSON,THE ELIZABETHAN ACADEMY TRUST,07964360,Active,Director,Active,11 December 2013,
 34518,Eleanor Mary PRICE,DUNDEE REP AND SCOTTISH DANCE THEATRE LIMITED,SC021201,Active,Director,Resigned,21 November 2000,16 September 2003
 34518,Eleanor PRICE,EUSACO LIMITED,SC084199,Active,Director,Resigned,22 March 2007,20 March 2008
-34522,Edward Ray FARRIS,R & K BESPOKE JOINERY LIMITED,07259970,Dissolved,Director,,20 May 2010,
 34524,Jason Theo George CHARALAMBOUS,ANGEL LAW LIMITED,06013109,Active,Director,Active,1 November 2014,
 34527,Bachchu Kailash KAINI,NISHU STORES LTD,07695065,Dissolved,Director,,12 April 2012,
 34561,Carole Georgina Tetley O'TOOLE,NEWMAN ASSOCIATION (THE),00434364,Active,Director,Active,15 June 2013,
@@ -2163,6 +2170,8 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 34847,Brian HALEY,TRADEBE HEALTHCARE NATIONAL LIMITED,03882534,Active,Director,Resigned,21 June 2002,25 June 2008
 34858,Kyle Arron Paul MICHAEL,KAPM CONSULTANTS LTD,09290020,Active,Director,Active,31 October 2014,
 34858,Kyle Arron Paul MICHAEL,MINIONS BAR LTD,07865928,Active,Director,Active,30 November 2011,
+34867,Thomas Bartholomew HALL,TBH ADVISORY LTD.,10732811,Active,Director,Active,20 April 2017,
+34867,Thomas Bartholomew HALL,THOMAS HALL MOTORSPORTS LTD.,10483968,Active,Director,Active,17 November 2016,
 34876,Ray BLAKE,BLAKE & BLAKE FS LIMITED,10546380,Active,Director,Active,4 January 2017,
 34890,Andrew Richard BROWNING,A R BROWNING CONSULTING LTD.,10386019,Active,Director,Active,20 September 2016,
 34891,Jackie WYLIE,TAKE ME SOMEWHERE LIMITED,SC543704,Active,Director,Resigned,25 August 2016,20 March 2017
@@ -2279,6 +2288,7 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 35311,Zoe HATCH,PRODUCT AND TECHNOLOGY DEVELOPMENT LIMITED,04270346,Active,Secretary,Active,23 March 2004,
 35341,Andrew Guy JONES,APRIL SYSTEMS DESIGN LIMITED,04747642,Active,Secretary,Active,29 April 2003,
 35341,Andrew Guy JONES,RUN REG RUN LTD,09103994,Dissolved,Director,,26 June 2014,
+35437,Richard MORGAN,BRISTOL 1ST REMOVALS LTD,11493207,Active,Director,Active,31 July 2018,
 35992,Roderick Giles CANTRILL,20-21 MHS LESSEES LIMITED,05633920,Active,Director,Active,1 December 2018,
 35992,Roderick Giles CANTRILL,CAMBRIDGE CITY CENTRE PARTNERSHIP LIMITED,06849799,Dissolved,Director,Resigned,3 April 2009,15 July 2010
 35992,Roderick Giles CANTRILL,MILLINGTON ADVISORY PARTNERS LIMITED,04603234,Active,Director,Active,3 December 2002,
@@ -2413,7 +2423,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 60216,Claire Elizabeth UNWIN,JIMECH LIMITED,06156694,Active,Director,Active,9 November 2012,
 60216,Claire Elizabth UNWIN,WEST SUFFOLK HIVE CIC,12189973,Active,Director,Active,4 September 2019,
 60223,Andrew DUNNE,CHEWTON WOOD DESIGN LTD,09596309,Active,Director,Active,18 May 2015,
-60588,Rosemary Cerridwen Gray WOODS,HAVEN HOUSE PROJECT,04657756,Active,Director,Resigned,20 September 2006,17 October 2007
 60650,Phillip Bernard HOWELLS,ED & PHIL LTD,10189550,Active,Director,Active,19 May 2016,
 61419,Robert Liam EGGLESTON,AFPA TRUST LTD,08480755,Active,Director,Active,9 April 2013,
 61419,Robert Liam EGGLESTON,SYSCAP FINANCE LIMITED,02717345,Dissolved,Director,Resigned,1 April 2003,29 September 2006
@@ -2495,7 +2504,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 71564,Richard Stephen WHELAN,PLASTECH WEATHERSEALS LIMITED,06702200,Active,Director,Active,8 March 2018,
 71568,Bonnie JACKSON,FLOWERS R US LTD,10348776,Dissolved,Director,Resigned,27 August 2016,16 February 2019
 71581,Stuart POWELL,CHANGE FOR EXCELLENCE LIMITED,SC333686,Active,Director,Active,9 November 2007,
-71588,Qiaoyu CUI,"HEBEI YULIANG WIRE MESH CO., LTD",08829244,Dissolved,Director,,2 January 2014,
 71607,Lorna Marie ROWLAND,THE SPORTS INJURY & WELLNESS CENTRES LIMITED,05253575,Active,Director,Active,8 October 2004,
 71646,Rebecca Joanne GORDON-NESBITT,FOREGROUND RESEARCH LTD,12113616,Active,Director,Active,19 July 2019,
 71656,Philip Edward CROOK,BEERFESTUK LTD,07700091,Dissolved,Director,,11 July 2011,
@@ -2537,8 +2545,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 71895,Owen ASPINALL,TATA HUDDERSFIELD LTD,07724405,Active,Director,Active,1 August 2011,
 71902,Mohammed Ali AZEEM,FOUR LIMITED,04511504,Active,Director,Active,14 August 2002,
 71953,Natalie Cecilia ELPHICKE,MHML SOLUTIONS LIMITED,11512838,Active,Director,Active,13 August 2018,
-71964,Robert Kelday LESLIE,ORKNEY CITIZENS ADVICE BUREAU,SC174432,Active,Director,Resigned,4 September 2003,3 September 2008
-71964,Robert Kelday LESLIE,ORKNEY COMMUNITY TRANSPORT ORGANISATION COMMUNITY INTEREST COMPANY,SC348776,Active,Director,Active,9 May 2014,
 71973,Stephen Edward CAPPER,CORE EDUCATION UK LIMITED,06041442,Active,Director,Active,11 June 2012,
 71973,Stephen Edward CAPPER,MUSEUM OF POWER,03203668,Active,Director,Active,4 July 2017,
 71981,Richard Michael QUIGLEY,BLACKBERRY LANE PRE-SCHOOL,05224550,Active,Director,Resigned,18 October 2011,28 February 2013
@@ -2596,8 +2602,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 72239,Graham Wilson HADLEY,THE KINROSS BREWERY LIMITED,SC536276,Active,Director,Resigned,26 August 2016,29 January 2019
 72239,Graham Wilson HADLEY,THE KINROSS-SHIRE PARTNERSHIP LIMITED,SC190362,Active,Director,Resigned,1 December 2007,5 April 2010
 72240,Peter Ernest JACOBS,CODEALOT LIMITED,07693454,Dissolved,Director,,5 July 2011,
-72246,Frank CALLADINE,PHANTASUS PRODUCTIONS LTD,09035182,Dissolved,Director,Resigned,17 June 2014,22 August 2014
-72246,Frank CALLADINE,RHEA PRODUCTIONS LTD,09196143,Dissolved,Director,Resigned,30 August 2014,1 September 2015
 72269,Atifa SHAH,ROCHDALE BOROUGHWIDE CULTURAL TRUST,06052980,Active,Director,Resigned,5 February 2007,18 September 2012
 72271,Alan Brian ENTWISTLE,24W MEDIA LIMITED,07003761,Active,Director,Active,28 August 2009,
 72271,Alan Brian ENTWISTLE,ACTION FOR ASD,04243981,Active,Director,Resigned,26 November 2013,15 October 2018
@@ -2622,7 +2626,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 72360,Tristan Naseem KORIYA,DALES HOUSING LIMITED,04201820,Converted / Closed,Director,Resigned,10 April 2014,21 March 2017
 72360,Tristan Naseem KORIYA,SEVEN LOCKS HOUSING LIMITED,05571472,Converted / Closed,Director,Resigned,10 April 2014,21 March 2017
 72360,Tristan Naseem KORIYA,TNK LEGAL & FINANCIAL SERVICES LIMITED,08344017,Active,Director,Active,2 January 2013,
-72361,Harriet Nkechi ADIMORA GORE,PHILBEACH PARTNERS LTD,08512394,Active,Director,Active,1 May 2013,
 72361,Harriet Nkechi GORE,NUCLEUS COMMUNITY ACTION LTD,01202541,Active,Director,Resigned,30 July 1999,31 July 2002
 72361,Harriet Nkechi GORE,TOUCH LOVE WORLDWIDE LIMITED,08258932,Dissolved,Director,,18 October 2012,
 72376,Stephen COTTEN,BRATTON FLEMING VILLAGE STORES LTD,08303074,Dissolved,Director,,22 November 2012,
@@ -2638,11 +2641,6 @@ DC Candidate ID,Name,Company Name,Company Number,Company Status,Role,Role Status
 72418,Benjamin John Mervyn ASTON,CLOUDSCA.PE SOFTWARE DEVELOPMENT LIMITED,07027800,Active,Director,Active,23 September 2009,
 72426,Alan Sinclair BLACK,ARUN CLINICAL AND SCIENTIFIC LIMITED,06126255,Active,Director,Active,23 February 2007,
 72426,Alan Sinclair BLACK,TRANSCRIP PARTNERS LLP,OC334874,Active,LLP Member,Resigned,11 June 2012,14 June 2013
-72427,Antonio CAPOZZOLI,AUTO CAPOZZOLI LIMITED,06146537,Active,Director,Active,8 March 2007,
-72427,Antonio CAPOZZOLI,CAPOZZOLI LIMITED,06020213,Active,Director,Active,6 December 2006,
-72427,Antonio CAPOZZOLI,HTL OPERATIONS LIMITED,06768270,Dissolved,Director,Resigned,8 December 2008,18 February 2010
-72427,Antonio CAPOZZOLI,HTL SUPPORT LIMITED,06768169,Active,Director,Resigned,8 December 2008,18 February 2010
-72427,Antonio CAPOZZOLI,SERVICED CLOUD LIMITED,06765598,Active,Director,Resigned,4 December 2008,18 February 2010
 72436,Robert SPEIRS,FAZE CAPITAL LTD,SC588651,Active,Director,Active,13 February 2018,
 72436,Robert SPEIRS,RAB ENERGY LIMITED,SC620417,Active,Director,Active,6 February 2019,
 72449,Andrew John SNEDDEN,ARTISAN DESIGNER CANDLES LIMITED,10836037,Dissolved,Director,,26 June 2017,
